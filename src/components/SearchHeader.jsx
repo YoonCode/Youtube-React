@@ -1,8 +1,9 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { BsYoutube, BsSearch } from 'react-icons/bs'
-import { useNavigate } from 'react-router-dom'
+import { Link, useNavigate, useParams } from 'react-router-dom'
 
 export default function SearchHeader() {
+  const { keyword } = useParams()
   const navigate = useNavigate()
   const [text, setText] = useState('')
   const handleSubmit = (e) => {
@@ -10,12 +11,14 @@ export default function SearchHeader() {
     navigate(`/videos/${text}`)
   }
 
+  useEffect(() => setText(keyword || ''), [keyword])
+
   return (
     <header>
-      <div>
+      <Link to="/">
         <BsYoutube />
         <h1>Youtube</h1>
-      </div>
+      </Link>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
