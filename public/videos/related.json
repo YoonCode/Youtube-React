@@ -1,0 +1,1097 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Llzb6uMHCtwfdDNQoYtLVl_E2lw",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 158,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iuXeoSQ7vl3wO2BAtUhDSINgUbc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eIho2S0ZahI"
+      },
+      "snippet": {
+        "publishedAt": "2014-06-27T14:18:00Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "How to speak so that people want to listen | Julian Treasure",
+        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nHave you ever felt like you're talking, but nobody is listening? Here's Julian Treasure to help you fix that. As the sound expert demonstrates some useful vocal exercises and shares tips on how to speak with empathy, he offers his vision for a sonorous world of listening and understanding.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-06-27T14:18:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yiRzqlEgF_Sg5pXmF1avuj2Hssk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RKK7wGAYP6k"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-05T20:17:43Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "How language shapes the way we think | Lera Boroditsky",
+        "description": "There are about 7,000 languages spoken around the world -- and they all have different sounds, vocabularies and structures. But do they shape the way we think? Cognitive scientist Lera Boroditsky shares examples of language -- from an Aboriginal community in Australia that uses cardinal directions instead of left and right to the multiple words for blue in Russian -- that suggest the answer is a resounding yes. \"The beauty of linguistic diversity is that it reveals to us just how ingenious and how flexible the human mind is,\" Boroditsky says. \"Human minds have invented not one cognitive universe, but 7,000.\"\n\nCheck out more TED Talks: http://www.ted.com\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.\n\nFollow TED on Twitter: http://www.twitter.com/TEDTalks\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: https://www.youtube.com/TED",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-05T20:17:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-XzEGV5Th1BKTT1p18AoMko7V18",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VRJzvJ5XPQI"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-15T19:29:36Z",
+        "channelId": "UCftwRNsjfRo08xYE31tkiyw",
+        "title": "Body Language Expert Explains How to Show Confidence | WIRED",
+        "description": "Former FBI agent and body language expert Joe Navarro explains how we can project confidence through our body language. Joe takes a look at various celebrities and politicians and demonstrates the things that they do that can help them appear more confident. \r\n\r\nCheck out Joe's book \"Be Exceptional\"\r\nhttps://www.amazon.com/Be-Exceptional-Master-Traits-Extraordinary-ebook/dp/B08K93BLQP/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=\r\n\r\nhttps://www.jnforensics.com/ \r\n\r\nBooks By Joe Navarro: https://www.jnforensics.com/books\r\nJoe Navarro Body Language Academy: https://jnbodylanguageacademy.com\n\nStill haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 \r\nListen to the Get WIRED podcast  ►► https://link.chtbl.com/wired-ytc-desc\r\nWant more WIRED? Get the magazine ►► https://subscribe.wired.com/subscribe/splits/wired/WIR_YouTube?source=EDT_WIR_YouTube_0_Video_Description_ZZ\r\n\r\nFollow WIRED:\r\n\r\nInstagram ►►https://instagram.com/wired\r\nTwitter ►►http://www.twitter.com/wired\r\nFacebook ►►https://www.facebook.com/wired\r\n\r\nGet more incredible stories on science and tech with our daily newsletter: https://wrd.cm/DailyYT\r\n\r\nAlso, check out the free WIRED channel on Roku, Apple TV, Amazon Fire TV, and Android TV. \r\n\r\nABOUT WIRED\r\nWIRED is where tomorrow is realized. Through thought-provoking stories and videos, WIRED explores the future of business, innovation, and culture.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WIRED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-15T19:29:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DK0gjpq247QK0n99s1atuGAqFtM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1bumPyvzCyo"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-11T18:57:21Z",
+        "channelId": "UCR54lF_dD3f-8srmRqnTwgQ",
+        "title": "Arnold Schwarzenegger Leaves the Audience SPEECHLESS | One of the Best Motivational Speeches Ever",
+        "description": "Arnold Schwarzenegger, former Mr. Olympia, Conan, Terminator, and Governor of California, delivers one of the best motivational speeches you will ever hear. \n►Listen to this speech offline on the Mindset App: http://bit.ly/ArnoldMindset\n\nSpecial thanks to Jürgen Höller for partnering with us in the creation of this video! Subscribe to his channel for the full speech and more like it: https://bit.ly/JürgenHöllerYouTube\n\nSubscribe for new videos every week from the greatest minds: http://bit.ly/SubscribeHub\n\n\"At the age of 20 I went to London and won the youngest Mr.Universe ever. And it was because I had a goal. So let me tell you something, visualizing a goal and going after it is fun. You have to have a purpose, no matter what, you have to have a purpose.\"\n― Arnold Schwarzenegger\n\nIf you know someone who could use this video, share it with them!\n-------------------------------------------------------------------\n\n►Speaker\n\nArnold Schwarzenegger\n\nSchwarzenegger is known all over the globe for his many accomplishments: world champion bodybuilder, Hollywood action hero, successful businessman, environmentalist, philanthropist, best-selling author, and California's 38th Governor.\n\nFollow Arnold:\nYouTube: https://bit.ly/2DP2Wx3\nhttps://www.instagram.com/schwarzenegger\nhttps://twitter.com/Schwarzenegger\nhttp://www.schwarzenegger.com/\n\n►Speech Credit\n\nJürgen Höller - Power Days (Olympiahalle Munich)\n\nSpecial guest star: Arnold Schwarzenegger\n\nFollow Jürgen Höller:\nYouTube: https://bit.ly/JürgenHöllerYouTube\n⁣⁣⁣Instagram: https://bit.ly/30Km6gC\nFacebook: https://bit.ly/3kAZ8jX\nWebsite: juergenhoeller.com\n\n►Follow MotivationHub:\n\nYouTube: http://bit.ly/MotivationHubYouTube\nFacebook: http://bit.ly/MotivationHubFacebook\nTwitter: http://bit.ly/MotivationHubTwitter\nInstagram: https://www.instagram.com/motivationhub/\nWebsite: http://bit.ly/MotivationHubWebsite\nMotivational Canvas Art: https://shop.motiversity.com/\nMindset App: https://link.mindsetapp.com/V21pnxiDThb\n\n►Music: \n\nWhitesand - Story of the wind\nhttps://www.youtube.com/channel/UCe96JG5gdgSRtmqStx0isXA\n\nAudiojungle\n\n►Video footage: All video footage used is licensed from Jürgen Höller or from various websites.\n\n📝 Submissions\nSpeeches: http://bit.ly/MHSpeakerSubmissions \nMusic or Footage: http://bit.ly/MHMusicFootageSubmissions\n\n►Disclaimer: This video was fully edited and licensed by the team at MotivationHub.\n\nHelp us caption & translate this video!\n\nhttps://amara.org/v/C2Iiz/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1bumPyvzCyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1bumPyvzCyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1bumPyvzCyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1bumPyvzCyo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1bumPyvzCyo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MotivationHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-11T18:57:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oRv72oXoOZWgJ9BEghtnKLJcwVU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4jwUXV4QaTw"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-21T14:06:56Z",
+        "channelId": "UCftwRNsjfRo08xYE31tkiyw",
+        "title": "Former FBI Agent Explains How to Read Body Language | Tradecraft | WIRED",
+        "description": "Former FBI agent and body language expert Joe Navarro breaks down the various ways we communicate non-verbally. What does it mean when we fold our arms? Why do we interlace our fingers? Can a poker player actually hide their body language?\r\n\r\nCheck out Joe's book \"The Dictionary of Body Language\"\r\nhttps://www.jnforensics.com/ \r\nBooks By Joe Navarro:  https://www.jnforensics.com/books\r\nJoe Navarro Body Language Academy:  https://jnbodylanguageacademy.com\n\nStill haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 \r\nListen to the Get WIRED podcast  ►► https://link.chtbl.com/wired-ytc-desc\r\nWant more WIRED? Get the magazine ►► https://subscribe.wired.com/subscribe/splits/wired/WIR_YouTube?source=EDT_WIR_YouTube_0_Video_Description_ZZ\r\n\r\nGet more incredible stories on science and tech with our daily newsletter: https://wrd.cm/DailyYT\r\n\r\nAlso, check out the free WIRED channel on Roku, Apple TV, Amazon Fire TV, and Android TV. Here you can find your favorite WIRED shows and new episodes of our latest hit series Tradecraft.\r\n\r\nABOUT WIRED\r\nWIRED is where tomorrow is realized. Through thought-provoking stories and videos, WIRED explores the future of business, innovation, and culture.\n\nFormer FBI Agent Explains How to Read Body Language | Tradecraft | WIRED",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WIRED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-21T14:06:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Du1DKJA25QCqT5rWvDkfxVsMuLA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P_6vDLq64gE"
+      },
+      "snippet": {
+        "publishedAt": "2011-10-13T19:33:04Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "How to spot a liar | Pamela Meyer",
+        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nOn any given day we're lied to from 10 to 200 times, and the clues to detect those lies can be subtle and counter-intuitive. Pamela Meyer, author of \"Liespotting,\" shows the manners and \"hotspots\" used by those trained to recognize deception -- and she argues honesty is a value worth preserving. (Contains mature content)\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-10-13T19:33:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Kls0EXy6Op-V0lY_pOJUEo_iWRY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RcGyVTAoXEU"
+      },
+      "snippet": {
+        "publishedAt": "2013-09-03T21:19:54Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "How to make stress your friend | Kelly McGonigal",
+        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nStress. It makes your heart pound, your breathing quicken and your forehead sweat. But while stress has been made into a public health enemy, new research suggests that stress may only be bad for you if you believe that to be the case. Psychologist Kelly McGonigal urges us to see stress as a positive, and introduces us to an unsung mechanism for stress reduction: reaching out to others.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-09-03T21:19:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oZRRqFZY0Heg1U41ieF_FAs0NSA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c0KYU2j0TM4"
+      },
+      "snippet": {
+        "publishedAt": "2012-03-02T18:32:02Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "The power of introverts | Susan Cain",
+        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nIn a culture where being social and outgoing are prized above all else, it can be difficult, even shameful, to be an introvert. But, as Susan Cain argues in this passionate talk, introverts bring extraordinary talents and abilities to the world, and should be encouraged and celebrated.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-03-02T18:32:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q-sQ3AVceFZLxlQhbNAryWfn2aE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cFLjudWTuGQ"
+      },
+      "snippet": {
+        "publishedAt": "2014-05-12T21:41:29Z",
+        "channelId": "UCGwuxdEeCf0TIA2RbPOj-8g",
+        "title": "Make Body Language Your Superpower",
+        "description": "Body language, both the speaker's and the audience's, is a powerful form of communication that is difficult to master, especially if the speaker is nervous. This video will teach you how to use your body language effectively, read the audience's body language and what to do when they look bored or disconnected. Use these tools to enhance your nonverbal communication abilities and better connect with your audiences.\nPresented by Stanford graduate students Matt Levy, Colin Bailie, Jeong Joon Ha, and Jennifer Rosenfeld. Created as an exemplary final project in Lecturer JD Schramm's Strategic Communication course. Learn more about communication techniques and best practices on \"Think Fast, Talk Smart: The Podcast.\" https://www.gsb.stanford.edu/insights/think-fast-talk-smart-podcast",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Stanford Graduate School of Business",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-05-12T21:41:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LrIKZ525L0z0BQHzFp-B0c1lkrc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iCvmsMzlF7o"
+      },
+      "snippet": {
+        "publishedAt": "2011-01-03T18:35:24Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "The power of vulnerability | Brené Brown",
+        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nBrené Brown studies human connection -- our ability to empathize, belong, love. In a poignant, funny talk at TEDxHouston, she shares a deep insight from her research, one that sent her on a personal quest to know herself as well as to understand humanity. A talk to share.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iCvmsMzlF7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iCvmsMzlF7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iCvmsMzlF7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iCvmsMzlF7o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iCvmsMzlF7o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-01-03T18:35:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HYG1T9JfVkY-kkSBjdew9YmA2O4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qYvXk_bqlBk"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-23T15:22:59Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "Who are you, really? The puzzle of personality | Brian Little",
+        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWhat makes you, you? Psychologists like to talk about our traits, or defined characteristics that make us who we are. But Brian Little is more interested in moments when we transcend those traits — sometimes because our culture demands it of us, and sometimes because we demand it of ourselves. Join Little as he dissects the surprising differences between introverts and extroverts and explains why your personality may be more malleable than you think.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qYvXk_bqlBk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qYvXk_bqlBk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qYvXk_bqlBk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qYvXk_bqlBk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qYvXk_bqlBk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-23T15:22:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o220l9VQ737Ba90yT6p1c8Ri5CI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "phcDQ0H_LnY"
+      },
+      "snippet": {
+        "publishedAt": "2011-11-02T16:35:32Z",
+        "channelId": "UCOzfWnT6veqbYZqdGiuBe8w",
+        "title": "Amy Cuddy: Power Poses",
+        "description": "Amy Cuddy revealed that we can actually change feelings we have about our own status through the physical positions we take with our bodies. Her research participants had higher levels of testosterone and lower levels of cortisol after only two minutes in a \"power pose\". Cuddy asked if such findings can have wider implications for empowerment training.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/phcDQ0H_LnY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/phcDQ0H_LnY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/phcDQ0H_LnY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/phcDQ0H_LnY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "poptech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-11-02T16:35:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wnXLW56F_-ugckaPizoNPPMG4HM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dtfaccGmCCs"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-06T16:25:30Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "You Don’t Actually Know What Your Future Self Wants | Shankar Vedantam | TED",
+        "description": "\"You are constantly becoming a new person,\" says journalist Shankar Vendantam. In a talk full of beautiful storytelling, he explains the profound impact of something he calls the \"illusion of continuity\" -- the belief that our future selves will share the same views, perspectives and hopes as our current selves -- and shows how we can more proactively craft the people we are to become.\n\nIf you love watching TED Talks like this one, become a TED Member to support our mission of spreading ideas: http://ted.com/membership\n\nFollow TED! \nTwitter: http://twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: http://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: https://go.ted.com/shankarvedantam\n\nhttps://youtu.be/dtfaccGmCCs\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #future",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dtfaccGmCCs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dtfaccGmCCs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dtfaccGmCCs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dtfaccGmCCs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dtfaccGmCCs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-06T16:25:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fszKPP9B0oEzXObncLiscuEuPyM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "arj7oStGLkU"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-15T20:13:33Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "Tim Urban: Inside the mind of a master procrastinator | TED",
+        "description": "Tim Urban knows that procrastination doesn't make sense, but he's never been able to shake his habit of waiting until the last minute to get things done. In this hilarious and insightful talk, Urban takes us on a journey through YouTube binges, Wikipedia rabbit holes and bouts of staring out the window -- and encourages us to think harder about what we're really procrastinating on, before we run out of time.\n\nFor more from Tim Urban, visit Wait But Why: http://www.waitbutwhy.com/\n\nVisit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/arj7oStGLkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/arj7oStGLkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/arj7oStGLkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/arj7oStGLkU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/arj7oStGLkU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-15T20:13:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vq_ASbnmiBsT1VBYpN_7Wisf-VA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n3kNlFMXslo"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-16T16:18:11Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "How to gain control of your free time | Laura Vanderkam",
+        "description": "There are 168 hours in each week. How do we find time for what matters most? Time management expert Laura Vanderkam studies how busy people spend their lives, and she's discovered that many of us drastically overestimate our commitments each week, while underestimating the time we have to ourselves. She offers a few practical strategies to help find more time for what matters to us, so we can \"build the lives we want in the time we've got.\"\n\nTEDTalks is a daily video podcast of the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and much more.\nFind closed captions and translated subtitles in many languages at http://www.ted.com/translate\n\nFollow TED news on Twitter: http://www.twitter.com/tednews\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: http://www.youtube.com/user/TEDtalksDirector",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n3kNlFMXslo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n3kNlFMXslo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n3kNlFMXslo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n3kNlFMXslo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n3kNlFMXslo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-16T16:18:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EFdXHb53fHzJAmdQPxDi-_pdDqM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iG9CE55wbtY"
+      },
+      "snippet": {
+        "publishedAt": "2007-01-07T04:46:23Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "Do schools kill creativity? | Sir Ken Robinson",
+        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nSir Ken Robinson makes an entertaining and profoundly moving case for creating an education system that nurtures (rather than undermines) creativity.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iG9CE55wbtY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iG9CE55wbtY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iG9CE55wbtY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iG9CE55wbtY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2007-01-07T04:46:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DPZPWu2XGLxyGpU0EK0F_45Gw1o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cdZZpaB2kDM"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-14T15:43:22Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "Elon Musk talks Twitter, Tesla and how his brain works — live at TED2022",
+        "description": "In this unedited conversation with head of TED Chris Anderson, Elon Musk — the head of Tesla, SpaceX, Neuralink and The Boring Company — digs into the recent news around his bid to purchase Twitter and gets honest about the biggest regret of his career, how his brain works, the future he envisions for the world and a lot more. (Recorded at TED2022 on April 14, 2022)\n\nThis live interview includes an excerpt from another exclusive, extended conversation recorded a few days earlier at Tesla's Texas Gigafactory. Watch that full video here: https://youtu.be/YRvf00NooN8\n\n1:22 Tesla Texas Gigafactory interview clip\n11:34 Elon Musk live at TED2022\n11:48 Twitter, free speech and open-sourcing the algorithm\n27:40 Tesla and short sellers\n32:02 If you could go back in time and change one thing, what would it be?\n33:44 Electric vehicles, manufacturing and sleeping on the floor of the Tesla factory\n38:04 \"At this point I think I know more about manufacturing than anyone currently alive on Earth.\"\n39:15 Elon's \"Master Plan\" and accelerating a sustainable energy economy\n42:36 SNL, Asperger's, childhood and how Elon's brain works\n46:48 \"I was absolutely obsessed with truth.\"\n49:23 Philosophy, the meaning of life and the \"why\" of things\n51:43 What the future will look like\n52:37 \"We want to do our absolute best to make sure the future is ... something you can look forward to and not feel sad about.\"\n\nIf you love watching TED Talks like this one, become a TED Member to support our mission of spreading ideas: http://ted.com/membership\n\nFollow TED! \nTwitter: http://twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: http://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cdZZpaB2kDM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cdZZpaB2kDM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cdZZpaB2kDM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cdZZpaB2kDM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cdZZpaB2kDM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-14T15:43:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DaI4yxuCfCrXqcTgFN-lfwwXxYg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F4Zu5ZZAG7I"
+      },
+      "snippet": {
+        "publishedAt": "2016-01-11T16:39:57Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "7 Ways to Make a Conversation With Anyone | Malavika Varadan | TEDxBITSPilaniDubai",
+        "description": "“We mustn’t speak to strangers.” Malavika Varadan, challenges this societal norm, by presenting 7 ways to make conversation with anyone.\n\nRJ extraordinaire, Malavika Varadan, creates waves quite literally with her morning show, Breakfast No.1 on City 101.6. An avid fitness enthusiast, positivity ninja and drama queen, she has chiseled a benchmark in the radio industry. At TEDxBITSPilaniDubai she will choose to redefine connections.\n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F4Zu5ZZAG7I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F4Zu5ZZAG7I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F4Zu5ZZAG7I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F4Zu5ZZAG7I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F4Zu5ZZAG7I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-01-11T16:39:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pRySavhNrfO3H9wNsV7vNjGOKh4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DTcJmIbn5nw"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-04T15:03:37Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "\"Everything happens for a reason\" -- and other lies I've loved | Kate Bowler",
+        "description": "In life's toughest moments, how do you go on living? Kate Bowler has been exploring this question ever since she was diagnosed with stage IV cancer at age 35. In a profound, heartbreaking and unexpectedly funny talk, she offers some answers -- challenging the idea that \"everything happens for a reason\" and sharing hard-won wisdom about how to make sense of the world after your life is suddenly, completely changed. \"I believe that in the darkness, even there, there will be beauty and there will be love,\" she says.\n\nGet TED Talks recommended just for you! Learn more at https://www.ted.com/signup.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request here: https://media-requests.ted.com/\n\nFollow TED on Twitter: http://www.twitter.com/TEDTalks\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: https://www.youtube.com/TED",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DTcJmIbn5nw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DTcJmIbn5nw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DTcJmIbn5nw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DTcJmIbn5nw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DTcJmIbn5nw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-04T15:03:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g6slxSYylAPtPIHYFH3ZN0lAjLs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZZZ7k8cMA-4"
+      },
+      "snippet": {
+        "publishedAt": "2013-11-17T11:45:02Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Body language, the power is in the palm of your hands | Allan Pease | TEDxMacquarieUniversity",
+        "description": "Never miss a talk! SUBSCRIBE to the TEDx channel: http://bit.ly/1FAg8hB\n\nAllan Pease is an Honorary Professor of Psychology at ULIM International University, who researches and studies selling relationships and human communication. He teaches simple, field-tested skills and techniques that get results. And he delivers his message in a humorous way, which motivates people to want to use. Allan's own experience and record in the field of selling, motivating and training is equalled by few others. He is a born achiever, starting his career at the age of 10. Globally known as \"Mr Body Language\", his programs are used by businesses and governments to teach powerful relationship skills. His messages are relevant to any area of life that involves winning people over and getting them to like you, co-operate, follow you or say 'yes'.\n\nFor more information on Allan Pease, click on the link below:\n\nhttps://www.facebook.com/AllanandBarbaraPease\n\nIn the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.* (*Subject to certain rules and regulations)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZZZ7k8cMA-4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZZZ7k8cMA-4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZZZ7k8cMA-4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZZZ7k8cMA-4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZZZ7k8cMA-4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-11-17T11:45:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TigYqYz9mtjFLK_AwEx8m5MkE_Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qp0HIF3SfI4"
+      },
+      "snippet": {
+        "publishedAt": "2010-05-04T15:46:18Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "How great leaders inspire action | Simon Sinek",
+        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\n Simon Sinek presents a simple but powerful model for how leaders inspire action, starting with a golden circle and the question \"Why?\"  His examples include Apple, Martin Luther King, and the Wright brothers -- and as a counterpoint Tivo, which (until a recent court victory that tripled its stock price) appeared to be struggling.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qp0HIF3SfI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qp0HIF3SfI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qp0HIF3SfI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qp0HIF3SfI4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qp0HIF3SfI4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-05-04T15:46:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9x3ipZXu6LTK8RG-SQrmlCB2G2s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W3P3rT0j2gQ"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-19T15:33:07Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Reading minds through body language | Lynne Franklin | TEDxNaperville",
+        "description": "Can you read someone’s mind by looking at them? Almost. Lynne Franklin teaches you how to connect with 3 types of people by understanding how their bodies communicate. After a boy threatened to kill her with a machete, Lynne Franklin decided to learn everything she could about persuasion. She became a neuroscience nerd, studying how the brain works and how to build rapport with people. She has since worked with organizations to use persuasive communication to increase their performance, productivity, and profit, and published a book about her personal research called Getting Others to Do What You Want. In addition to her marketing and consulting work, Lynne is a member of the National Speakers Association and President-elect of its Illinois chapter.  After a boy threatened to kill her with a machete, Lynne Franklin decided to learn everything she could about persuasion. She became a neuroscience nerd, studying how the brain works and how to build rapport with people. She has since worked with organizations to use persuasive communication to increase their performance, productivity, and profit, and published a book about her personal research called Getting Others to Do What You Want.\n\nIn addition to her marketing and consulting work, Lynne is a member of the National Speakers Association and President-elect of its Illinois chapter. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W3P3rT0j2gQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W3P3rT0j2gQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W3P3rT0j2gQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W3P3rT0j2gQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W3P3rT0j2gQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-19T15:33:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kCvyKYDZ_wxbYvuxurH7c4u1qeM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rrkrvAUbU9Y"
+      },
+      "snippet": {
+        "publishedAt": "2009-08-25T21:20:26Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "The puzzle of motivation | Dan Pink",
+        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nCareer analyst Dan Pink examines the puzzle of motivation, starting with a fact that social scientists know but most managers don't: Traditional rewards aren't always as effective as we think. Listen for illuminating stories -- and maybe, a way forward.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rrkrvAUbU9Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rrkrvAUbU9Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rrkrvAUbU9Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rrkrvAUbU9Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rrkrvAUbU9Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-08-25T21:20:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "47YC8xGU-NcZaCnaRL0be3HdLws",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w-HYZv6HzAs"
+      },
+      "snippet": {
+        "publishedAt": "2012-01-13T19:42:36Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "The skill of self confidence | Dr. Ivan Joseph | TEDxRyersonU",
+        "description": "Never miss a talk! SUBSCRIBE to the TEDx channel: http://bit.ly/1FAg8hB\n\nAs the Athletic Director and head coach of the Varsity Soccer team at Ryerson University, Dr. Joseph is often asked what skills he is searching for as a recruiter: is it speed? Strength? Agility? In Dr. Joseph's TEDx Talk, he explores self confidence and how it is not just the most important skill in athletics, but in our lives.\n \nIn the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.* (*Subject to certain rules and regulations)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w-HYZv6HzAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w-HYZv6HzAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w-HYZv6HzAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w-HYZv6HzAs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w-HYZv6HzAs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-01-13T19:42:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vgFEFDLrahLqPwnzQsS_z_nHJFw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LnJwH_PZXnM"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-01T15:06:08Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "How not to take things personally? | Frederik Imbo | TEDxMechelen",
+        "description": "Frederik Imbo studied theatre at the Royal Conservatory of Ghent and has acted in lots of television series. He founded Imboorling and now has over 15 years' experience in stimulating and supporting people. With the aim of improving their communication skills Frederik gives presentations, workshops, training courses and personal coaching sessions to anyone prepared to make their two ears available. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LnJwH_PZXnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LnJwH_PZXnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LnJwH_PZXnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LnJwH_PZXnM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LnJwH_PZXnM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-01T15:06:08Z"
+      }
+    }
+  ]
+}
