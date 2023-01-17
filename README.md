@@ -1,4 +1,4 @@
-[Published App](https://astounding-gaufre-a5dd83.netlify.app/)
+If you want to see the [published app](https://astounding-gaufre-a5dd83.netlify.app/) click here.
 
 # Getting Started with Create React App
 
