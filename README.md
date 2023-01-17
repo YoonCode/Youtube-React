@@ -1,4 +1,4 @@
-[Published](https://astounding-gaufre-a5dd83.netlify.app/)
+[Published App](https://astounding-gaufre-a5dd83.netlify.app/)
 
 # Getting Started with Create React App
 
