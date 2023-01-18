@@ -1,6 +1,6 @@
 If you want to see the [published app](https://astounding-gaufre-a5dd83.netlify.app/) click here.
 
-#LIBRARY
+#Libraries that I used
 1. [React Router](https://reactrouter.com/en/main)
 2. [React Query](https://tanstack.com/query/v4)
 3. [React Icons](https://react-icons.github.io/react-icons/)
