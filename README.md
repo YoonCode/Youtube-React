@@ -1,5 +1,4 @@
-#Published App
-[Youtube Clone](https://astounding-gaufre-a5dd83.netlify.app/)
+#Published App: [Youtube Clone](https://astounding-gaufre-a5dd83.netlify.app/)
 
 #Libraries that I used
 1. [React Router](https://reactrouter.com/en/main)
